@@ -4,9 +4,9 @@ title                    : "Yiming Li's Homepage"
 title_separator          : "-"
 name                     : &name "Yiming Li"
 description              : &description "Ph.D at HKUST"
-url                      : https://yimingli.github.io
+url                      : https://luckylym.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yimingli.github.io"
+repository               : "luckylym.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
