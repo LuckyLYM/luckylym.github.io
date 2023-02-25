@@ -27,7 +27,7 @@ I am a fourth-year PhD student in Computer Science and Engineering at the [Hong 
 * [Orca: Scalable Temporal Graph Neural Network Training with Theoretical Guarantees.](https://yimingli.github.io/)  
 **Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *SIGMOD 2023. (To appear)*
 * [Camel: Managing Data for Efficient Stream Learning.](https://dl.acm.org/doi/10.1145/3514221.3517836)  
-**Yiming Li**, Yanyan Shen, and Lei Chen. *SIGMOD 2022.*
+**Yiming Li**, Yanyan Shen, Lei Chen. *SIGMOD 2022.*
 * [Palette: Towards Multi-source Model Selection and Ensemble for Reuse.](https://ieeexplore.ieee.org/document/9458766)  
 **Yiming Li**, Yanyan Shen, Lei Chen. *ICDE 2021.*
 * [Two-sided Online Bipartite Matching in Spatial Data: Experiments and Analysis.](https://dl.acm.org/doi/10.1007/s10707-019-00351-4)  
