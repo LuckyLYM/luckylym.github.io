@@ -14,7 +14,7 @@ PhD student at the Hong Kong University of Science and Technology
 Email: yliix[AT]connect.ust.hk
 -->
 
-I am a fourth-year PhD student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) advised by Professor [Lei Chen](https://www.cse.ust.hk/~leichen/). I received my Bachelor degree in Computer Science and Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I was advised by Professor [Yongxin Tong](https://hufudb.com/).
+I am a fourth-year PhD student in Computer Science and Engineering at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) advised by Professor [Lei Chen](https://www.cse.ust.hk/~leichen/). I received my Bachelor degree in Computer Science and Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/).
 
 ## Research Interests
 * Data Management for ML
