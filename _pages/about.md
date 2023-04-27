@@ -22,10 +22,10 @@ I am a fourth-year PhD student in Computer Science and Engineering at the [Hong 
 * Sampling and Data Selection
 
 ## Publications
-* [Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank.](https://yimingli.github.io/)  
-**Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *VLDB 2023. (To appear)*
+* [Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank.](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)  
+**Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *VLDB 2023.*
 * [Orca: Scalable Temporal Graph Neural Network Training with Theoretical Guarantees.](https://yimingli.github.io/)  
-**Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *SIGMOD 2023. (To appear)*
+**Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *SIGMOD 2023.*
 * [Camel: Managing Data for Efficient Stream Learning.](https://dl.acm.org/doi/10.1145/3514221.3517836)  
 **Yiming Li**, Yanyan Shen, Lei Chen. *SIGMOD 2022.*
 * [Palette: Towards Multi-source Model Selection and Ensemble for Reuse.](https://ieeexplore.ieee.org/document/9458766)  
