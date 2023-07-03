@@ -11,6 +11,8 @@ redirect_from:
 <!--
 PhD student at the Hong Kong University of Science and Technology
 
+https://jayrobwilliams.com/posts/2020/06/academic-website/
+
 Email: yliix[AT]connect.ust.hk
 -->
 
@@ -24,7 +26,7 @@ I am a fourth-year PhD student in Computer Science and Engineering at the [Hong 
 ## Publications
 * [Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank.](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)  
 **Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *VLDB 2023.*
-* [Orca: Scalable Temporal Graph Neural Network Training with Theoretical Guarantees.](https://yimingli.github.io/)  
+* [Orca: Scalable Temporal Graph Neural Network Training with Theoretical Guarantees.](https://dl.acm.org/doi/abs/10.1145/3588737)  
 **Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *SIGMOD 2023.*
 * [Camel: Managing Data for Efficient Stream Learning.](https://dl.acm.org/doi/10.1145/3514221.3517836)  
 **Yiming Li**, Yanyan Shen, Lei Chen. *SIGMOD 2022.*
