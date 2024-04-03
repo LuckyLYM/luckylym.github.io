@@ -33,10 +33,6 @@ Shihong Gao, **Yiming Li**, Xin Zhang, Yanyan Shen, Yingxia Shao, Lei Chen. *SIG
 * [ETC: Efficient Training of Temporal Graph Neural Networks over Large-scale Dynamic Graphs.](https://luckylym.github.io/)  
 Shihong Gao, **Yiming Li**, Yanyan Shen, Yingxia Shao, Lei Chen. *VLDB 2024.*
 
-
-* [Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank.](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)  
-**Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *VLDB 2023.*
-
 * [Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank.](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)  
 **Yiming Li**, Yanyan Shen, Lei Chen, Mingxuan Yuan. *VLDB 2023.*
 
